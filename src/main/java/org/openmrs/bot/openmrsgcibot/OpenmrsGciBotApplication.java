@@ -15,7 +15,7 @@ public class OpenmrsGciBotApplication {
 
 	@Autowired
 	private ResourceLoader resourceLoader;
-	
+
 	public static void main(String[] args) {
 		SpringApplication.run(OpenmrsGciBotApplication.class, args);
 	}

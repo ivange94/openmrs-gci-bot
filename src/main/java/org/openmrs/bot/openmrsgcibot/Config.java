@@ -9,6 +9,8 @@ public class Config {
 
     private String telegramApiKey;
 
+    private Long telegramChatId;
+
     public String getGciApiKey() {
         return gciApiKey;
     }
@@ -23,6 +25,14 @@ public class Config {
 
     public void setTelegramApiKey(String telegramApiKey) {
         this.telegramApiKey = telegramApiKey;
+    }
+
+    public Long getTelegramChatId() {
+        return telegramChatId;
+    }
+
+    public void setTelegramChatId(Long telegramChatId) {
+        this.telegramChatId = telegramChatId;
     }
 
     @Override
