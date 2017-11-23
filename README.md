@@ -125,6 +125,8 @@ You should see a message posted to your channel like this
 
 * Deploy to Heroku and send link to app to gci-support.
 
+* Add CI/CD 
+
 * Make bot interactive by having commands to get users interact with the bot. For example, have the following commands
 
     **openmrs_gci_bot submit** This command should return all tasks that have been submitted for review
@@ -144,7 +146,7 @@ See also the list of [contributors](https://github.com/ivange94/openmrs-gci-bot/
 
 # License
 
-This project is licensed under the MIT License - see the [LICENSE.md]() file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 
 
